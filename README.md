@@ -1,4 +1,4 @@
-#Huawei Certified Big Data Engineer 
+Huawei Certified Big Data Engineer
 
 HCIA-Big Data 
 
